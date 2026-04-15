@@ -193,7 +193,7 @@ def contratdeviedemo():
     FE= 100e6
     F0= 10e6
     TH= 1e-6
-    DOSSIER ="C:/Users/AWOUNANG/Desktop/Demodulation QM16"
+    DOSSIER ="C:/Users/AWOUNANG/Desktop/Demodultion-QM16/datasin"
     
     NIVEAUX = [1, 3, 5, 7, 9, 11, 13]
  
